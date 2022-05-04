@@ -146,6 +146,8 @@ table {
     text-decoration: none;
     color: #F6F0D2;
     line-height: 1.2;
+    max-width: 400px;
+    padding-bottom: 30px;
   }
 
   /* HEADER */
@@ -194,7 +196,7 @@ table {
     font-weight: 400;
     text-decoration: none;
     color: #F6F0D2;
-    font-size: 60px; 
+    font-size: 50px; 
     font-style: italic;
     background-color: transparent;
     border: none; 
