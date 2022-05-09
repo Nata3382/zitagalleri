@@ -157,8 +157,17 @@ table {
   justify-content: space-around;
   }
 
+  /* Productlist */
 
-  
+  section {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 50px;
+  }
+
+
+
+  /* FOOTER */
 
   footer {
     padding-top: 80px;
